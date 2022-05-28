@@ -17,7 +17,7 @@ Automação Web e busca de informações com Python
 Uma importadora que trabalha com produtos com cotação em:
 - Dólar
 - Euro
-- Ouro
+- Ouro  
 E precisa atualizar as cotações diariamente em sua tabela de preços para saber a precificação correta dos seus produtos
 
 # 3 PROJETO
