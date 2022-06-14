@@ -23,3 +23,12 @@ E precisa atualizar as cotações diariamente em sua tabela de preços para sabe
 # 3 PROJETO
 Ciência de Dados e Previsão de Vendas
 O projeto é conseguir prever as vendas de uma empresa de Tv, Jornal e Rádio com base no seu investimento em anúncio.
+
+# 4 PROJETO 
+Neste projeto analisei dados obtidos através de notas escolares de alunos e os relacionei com as demais informações dadas, como: formação dos pais, gênero, 
+etnia e suas influências nos resultados.
+
+# 5 PROJETO
+Este projeto analisa as startups unicórnios ( possui avaliação de preço de mercado no valor de mais de 1 bilhão de dólares americanos), e desses dados consegui 
+extrair informações como os principais setores dessas startups, assim como a localidade com maior número de startups unicórnios e finalmente uma análise das startups 
+aqui no Brasil.
