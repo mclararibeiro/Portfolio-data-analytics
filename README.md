@@ -29,6 +29,4 @@ Neste projeto analisei dados obtidos através de notas escolares de alunos e os 
 etnia e suas influências nos resultados.
 
 # 5 PROJETO (https://github.com/mclararibeiro/Portfolio-data-analytics/blob/8ce87d92b5f68967466807ea29175b5e1e478a1e/UNIC%C3%93RNIOS%20.ipynb)
-Este projeto analisa as startups unicórnios (possui avaliação de preço de mercado no valor de mais de 1 bilhão de dólares americanos), e desses dados consegui 
-extrair informações como os principais setores dessas startups, assim como a localidade com maior número de startups unicórnios e finalmente uma análise das startups 
-aqui no Brasil.
+Este projeto analisa as startups unicórnios (possui avaliação de preço de mercado no valor de mais de 1 bilhão de dólares americanos), e a partir desses dados foi possível extrair informações como os principais setores dessas startups, assim como a localidade com maior número de startups unicórnios e finalmente uma análise das startups aqui no Brasil.
