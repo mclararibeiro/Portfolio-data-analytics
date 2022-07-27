@@ -37,6 +37,4 @@ Análise de Dados de Startups Mundiais
 
 Este projeto analisa as startups unicórnios (possui avaliação de preço de mercado no valor de mais de 1 bilhão de dólares americanos), e a partir desses dados foi possível extrair informações como os principais setores dessas startups, assim como a localidade com maior número de startups unicórnios e finalmente uma análise das startups aqui no Brasil.
 
-[6 PROJETO](https://github.com/mclararibeiro/Portfolio-data-analytics/blob/eeb346c30d2efc92c518a8125ec1ee3fd6000d26/Solu%C3%A7%C3%A3o%20Power%20BI.pbix)
 
-Solução Power BI, analisando caso elevado de turnover em uma empresa.
