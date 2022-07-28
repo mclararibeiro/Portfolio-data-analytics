@@ -38,6 +38,8 @@ Análise de Dados de Startups Mundiais
 Este projeto analisa as startups unicórnios (possui avaliação de preço de mercado no valor de mais de 1 bilhão de dólares americanos), e a partir desses dados foi possível extrair informações como os principais setores dessas startups, assim como a localidade com maior número de startups unicórnios e finalmente uma análise das startups aqui no Brasil.
 
 [6 PROJETO](https://github.com/mclararibeiro/Portfolio-data-analytics/blob/fb3266e05f55809990937026a341a12509f1e7f6/An%C3%A1lise%20de%20Mercado%20de%20Games.ipynb)
-Análise dos dados de vendas e classificação de jogos de PS4, com elaboração de relatório final com todos os gráficos plotados durante a análise.
+Análise dos dados de vendas e classificação de jogos de PS4
+
+Este projeto analisa os dados de vendas de jogos para PS4 na América do Norte, Europa, Japão, resto do mundo e Global. A partir desses dados foi possível fazer um estudo mais minucioso entendendo como esse mercado funciona, os maiores produtores de games e como se dá a venda nas diferentes partes do mundo. Com elaboração de relatório final com todos os gráficos plotados durante a análise.
 
 
