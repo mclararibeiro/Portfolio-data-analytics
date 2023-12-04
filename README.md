@@ -42,4 +42,6 @@ Análise dos dados de vendas e classificação de jogos de PS4
 
 Este projeto analisa os dados de vendas de jogos para PS4 na América do Norte, Europa, Japão, resto do mundo e Global. A partir desses dados foi possível fazer um estudo mais minucioso entendendo como esse mercado funciona, os maiores produtores de games e como se dá a venda nas diferentes partes do mundo. Com elaboração de relatório final com todos os gráficos plotados durante a análise.
 
-
+[7 PROJETO](https://github.com/mclararibeiro/Portfolio-data-analytics/blob/81634e871b2783f7a60f61d095990f2335c2e74c/ETL%20AUTOMATIZADA.ipynb)
+**AUTOMATIZAÇÃO DA EXTRAÇÃO E LIMPEZA DE UMA BASE DE DADOS DE IMPORTAÇÃO E EXPORTAÇÃO**
+Projeto de automação do processo de extração e limpeza de uma base de dados do governo federal sobre importação e exportação
