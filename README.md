@@ -44,4 +44,5 @@ Este projeto analisa os dados de vendas de jogos para PS4 na América do Norte, 
 
 [7 PROJETO](https://github.com/mclararibeiro/Portfolio-data-analytics/blob/81634e871b2783f7a60f61d095990f2335c2e74c/ETL%20AUTOMATIZADA.ipynb)
 **AUTOMATIZAÇÃO DA EXTRAÇÃO E LIMPEZA DE UMA BASE DE DADOS DE IMPORTAÇÃO E EXPORTAÇÃO**
+
 Projeto de automação do processo de extração e limpeza de uma base de dados do governo federal sobre importação e exportação
